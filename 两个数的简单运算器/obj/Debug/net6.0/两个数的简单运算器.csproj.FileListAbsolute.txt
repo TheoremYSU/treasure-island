@@ -1,0 +1,15 @@
+E:\C#\两个数的简单运算器\bin\Debug\net6.0\两个数的简单运算器.exe
+E:\C#\两个数的简单运算器\bin\Debug\net6.0\两个数的简单运算器.deps.json
+E:\C#\两个数的简单运算器\bin\Debug\net6.0\两个数的简单运算器.runtimeconfig.json
+E:\C#\两个数的简单运算器\bin\Debug\net6.0\两个数的简单运算器.dll
+E:\C#\两个数的简单运算器\bin\Debug\net6.0\两个数的简单运算器.pdb
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.csproj.AssemblyReference.cache
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.AssemblyInfoInputs.cache
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.AssemblyInfo.cs
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.csproj.CoreCompileInputs.cache
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.dll
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\refint\两个数的简单运算器.dll
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.pdb
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\两个数的简单运算器.genruntimeconfig.cache
+E:\C#\两个数的简单运算器\obj\Debug\net6.0\ref\两个数的简单运算器.dll
